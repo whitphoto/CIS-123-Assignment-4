@@ -1,0 +1,18 @@
+12               12
+15FERTILIZER     40
+20KNEEPAD        12
+21SPADE          15
+23RAKE           85
+25               07
+28LEAF BAGS      90
+45GRASS SEED     17
+50               45
+61HANGING BASKET 15
+62PLANTER        27
+64GAZING BALL    05
+69BIRD BATH      12
+71               15
+73GARDEN HOSE    16
+80ROSE BUSH      18
+81GARDEN GLOVES  25
+90               90
